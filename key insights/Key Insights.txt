@@ -1,0 +1,43 @@
+Key Insights
+
+Booking Demand
+
+City Hotel received more bookings than Resort Hotel.
+
+Peak booking months were July and August, showing strong seasonality.
+
+
+Cancellations
+
+Overall cancellation rate was high (~37%).
+
+Longer lead times were strongly correlated with cancellations.
+
+Non-refundable deposits had the highest cancellation risk.
+
+
+Guest Profile
+
+Average group size was 2 adults, with very few children or babies.
+
+Top 10 booking countries included Portugal, the UK, and Spain.
+
+Most guests were first-time visitors (only ~3% repeated guests).
+
+
+
+Revenue Insights
+
+City Hotel generated more total revenue than Resort Hotel.
+
+Market segments like Online TA/OTA had large volumes but also higher cancellations.
+
+Direct bookings and corporate customers provided more stable revenue.
+
+
+
+Guest Preferences
+
+Guests with more special requests were less likely to cancel.
+
+Parking space requests had no major impact on cancellations.
