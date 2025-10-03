@@ -3,8 +3,6 @@ SQL and Power BI project analyzing hotel booking demand to uncover trends, cance
 
 ---
 
-# Hotel Booking Demand Analysis
-
 ## Overview
 
 This project analyzes the **Hotel Booking Demand dataset** from Kaggle, containing nearly **120,000 records** across both city and resort hotels. The dataset includes booking details such as stay duration, booking channels, cancellations, guest demographics, and revenue metrics.
